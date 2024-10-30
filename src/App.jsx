@@ -1,9 +1,9 @@
 import './App.css'
-import Footer from './components/Footer/Footer'
+import LaundingPage from './pages/laundingPage/LaundingPage'
 
 function App() {
   return (
-    <Footer />
+    <LaundingPage />
   )
 }
 
