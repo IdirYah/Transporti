@@ -1,9 +1,9 @@
 import './App.css'
-import LaundingPage from './pages/laundingPage/LaundingPage'
+import SignUp from './pages/signup/SignUp'
 
 function App() {
   return (
-    <LaundingPage />
+    <SignUp />
   )
 }
 
