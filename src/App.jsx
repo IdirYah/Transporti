@@ -1,9 +1,9 @@
 import './App.css'
-import SignUp from './pages/signup/SignUp'
+import SavoirPlus from './pages/savoirplus/SavoirPlus'
 
 function App() {
   return (
-    <SignUp />
+    <SavoirPlus />
   )
 }
 
